@@ -3,3 +3,7 @@ section,
 footer {
   border: 1px solid;
 }
+.header {
+  background-color: black;
+  color: white;
+}

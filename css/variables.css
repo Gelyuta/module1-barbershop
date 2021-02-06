@@ -1,0 +1,18 @@
+:root {
+  /*Цвет текста*/
+
+  --white-tex: rgba(255, 255, 255, 1);
+
+  --grey-text-op04: rgba(157, 164, 189, 0.4);
+  --grey-text-op06: rgba(157, 164, 189, 0.6);
+  --grey-text: rgba(157, 164, 189, 1);
+
+  --graphit: rgba(48, 48, 48, 1);
+  --light-graphit: rgba(85, 85, 85, 1);
+
+  --orange: rgba(255, 108, 0, 1);
+
+  /*Цвет фона*/
+
+  --back-light-gray: rgba(247, 247, 247, 1);
+}
