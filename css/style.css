@@ -3,7 +3,27 @@ section,
 footer {
   border: 1px solid;
 }
+
 .header {
   background-color: black;
   color: white;
+}
+
+.header a {
+  color: currentcolor;
+}
+
+.hero-btn {
+  border: none;
+  background: transparent;
+}
+
+/*основной шриифт*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.title {
+  font-family: "Raleway", sans-serif;
 }
